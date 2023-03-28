@@ -1,0 +1,6 @@
+Weather data gathered from NOAA Climate Data on the amount of precipitation in the cities of Seattle, WA and St. Louis, MO from from January 1, 2017 to December 31, 2022.
+
+Source Data: https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND
+
+Seattle Weather Data csv raw link: https://raw.githubusercontent.com/brian-fischer/DATA-3320/main/weather/seattle_rain.csv
+St. Louis Weather Data csv raw link: https://raw.githubusercontent.com/brian-fischer/DATA-3320/main/weather/stl_rain.csv
