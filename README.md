@@ -9,3 +9,6 @@ The python notebook that performs the data preparation is in this repo: https://
 
 the clean csv is also in the repo: https://github.com/pintoanabel/Seattle-Weather/blob/main/clean_seattle_stl_weather.csv
 
+the cleaned precipitation data was then analyzed. the number of days for each city without any recorded rainfall was calculated and graphed, as well as the number of days where each city experienced at least 1.5 inches of rainfall. the monthly and yearly precipitation averages for each city over the 5 year span were also calculated. dataframes were created for each subset of data to generate the corresponding graphs, all taken from the cleaned data csv.
+
+the python notebook that performs the data analysis is in this repo: https://github.com/pintoanabel/Seattle-Weather/blob/main/APAnalysis_Seattle_St_Louis_Analysis_Template.ipynb
